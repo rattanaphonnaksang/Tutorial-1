@@ -1,6 +1,6 @@
-<?php 
+<?php อาร์ตๆๆๆๆๆๆๆๆๆๆๆๆ
 session_start();
-if ($_SESSION){ 
+if ($_SESSION){แบงจร้ 
 		if ($_SESSION['email']=="admin@admin.com")
 		{include "include/header3.php";}
 	else {include "include/header2.php";}
